@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(0, 100, 255);
+  }
+
+#output {
+  background-color: white;
+  border-radius: 20px;
+  border-top: 10px solid rgb(255, 50, 50);
+  padding: 10px;
+  float: none;
+  text-align: left;
+}
+
+#Num1Num2 {
+  background-color: white;
+  border-radius: 20px;
+  padding: 10px;
+}
